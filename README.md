@@ -1,7 +1,7 @@
 ### <h1 align="left">Hi, I'm Alexandre Kelifa</h1>
 <h3 align="center">🌊 A developper from France 👨🏼‍💻</h3>
 
-- 😲 All of my projects are available at 👉🏼 [https://alexandre-kelifa.surge.sh/](https://alexandre-kelifa.surge.sh/)
+- 😲 Some of my projects are available at 👉🏼 [https://alexandre-kelifa.surge.sh/](https://alexandre-kelifa.surge.sh/)
 
 - 📫 How to reach me **alexandre.kelifa@gmail.com**
 
